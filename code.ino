@@ -1,4 +1,4 @@
-// Arduino Code for EMF Detector (Multi LED)
+// Arduino Code for EMF Detector
 
 
 const int analogPin = 0;	// Analog Input Pin
